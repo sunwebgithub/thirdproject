@@ -1,0 +1,46 @@
+/* Custom Stylesheet */
+
+
+/**
+ * Use this file to override Materialize files so you can update
+ * the core Materialize files in the future
+ *
+ * Made By MaterializeCSS.com
+ */
+
+.icon-block {
+    padding: 0 15px;
+}
+
+.icon-block .material-icons {
+    font-size: inherit;
+}
+
+.logo-image {
+    margin-top: 15px;
+    height: 28px;
+    width: 140px;
+}
+
+.nav-underline:hover {
+    border-bottom: 5px solid #2979ff;
+    text-decoration: none;
+}
+
+@media (max-width: 700px) {
+    .parallax-container {
+        display: none;
+    }
+}
+
+#download-button {
+    letter-spacing: 1px;
+}
+
+.input-color {
+    color: #2979ff;
+}
+
+.card:hover {
+    box-shadow: 0 4px 5px 0 rgba(0, 0, 0, 0.14), 0 1px 10px 0 rgba(0, 0, 0, 0.12), 0 2px 4px -1px rgba(0, 0, 0, 0.3);
+}
