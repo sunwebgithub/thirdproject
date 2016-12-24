@@ -208,7 +208,14 @@
     <script src="js/materialize.js"></script>
     <script src="js/init.js"></script>
 
-  
+    <script>
+        $(document).ready(function () {
+            $('.parallax').parallax();
+            $('select').material_select();
+
+
+        });
+    </script>
 
 
 </body>
