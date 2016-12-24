@@ -5,6 +5,12 @@ threadsafe: false
 handlers:
 - url: /
   script: www/index.php
+
+- url: /index.php
+  script: www/index.php
+  
+- url: /about.php
+  script: www/about.php  
   
 -   url: /css  #your css folder
     static_dir: www/css 
@@ -20,4 +26,6 @@ handlers:
     
 -   url: /robot #your javascript folder
     static_dir: www/robot
+
+
     
