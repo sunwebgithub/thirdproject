@@ -6,5 +6,10 @@ handlers:
 - url: /
   script: www/index.php
   
-- url: /css
-  static_dir: css
+-   url: /css  #your css folder
+    static_dir: css 
+
+-   url: /js #your javascript folder
+    static_dir: js
+
+
