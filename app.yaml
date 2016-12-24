@@ -8,3 +8,9 @@ handlers:
 
 - url: /index.php
   script: www/index.php
+  
+- url: /(.*)
+   static_files: www/\1
+   upload: www/(.*)
+  
+  
