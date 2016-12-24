@@ -6,6 +6,6 @@ handlers:
 - url: /
   script: www/index.php
   
-- url: /css/materialize.css
-  script: www/css/materialize.css  
+- url: /css
+  static_dir: css
 
