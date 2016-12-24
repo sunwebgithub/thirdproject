@@ -22,8 +22,8 @@
             <div class="nav-wrapper container">
                 <a id="logo-container" href="#" class="brand-logo"><img class="logo-image" src="images/android-logo.png"></a>
                 <ul class="right hide-on-med-and-down">
-                    <li class="nav-underline"><a href="#">Home</a></li>
-                    <li class="nav-underline"><a href="#">About</a></li>
+                    <li class="nav-underline"><a href="/">Home</a></li>
+                    <li class="nav-underline"><a href="about.php">About</a></li>
                     <li class="nav-underline"><a href="#">Get in touch</a></li>
                 </ul>
 
