@@ -1,5 +1,5 @@
 runtime: php55
-api_version: 1
+api_version: 2
 threadsafe: false
 
 handlers:
@@ -19,7 +19,5 @@ handlers:
     static_dir: www/fonts
     
 -   url: /robot #your javascript folder
-    static_dir: www/robot    
-    
- 
+    static_dir: www/robot
     
