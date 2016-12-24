@@ -11,3 +11,9 @@ handlers:
 
 -   url: /js #your javascript folder
     static_dir: www/js
+
+-   url: /images #your javascript folder
+    static_dir: www/images
+    
+ 
+    
