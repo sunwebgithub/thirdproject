@@ -11,5 +11,3 @@ handlers:
 
 -   url: /js #your javascript folder
     static_dir: www/js
-
-
