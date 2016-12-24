@@ -7,9 +7,9 @@ handlers:
   script: www/index.php
   
 -   url: /css  #your css folder
-    static_dir: css 
+    static_dir: www/css 
 
 -   url: /js #your javascript folder
-    static_dir: js
+    static_dir: www/js
 
 
