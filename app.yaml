@@ -15,5 +15,11 @@ handlers:
 -   url: /images #your javascript folder
     static_dir: www/images
     
+-   url: /fonts #your javascript folder
+    static_dir: www/fonts
+    
+-   url: /robot #your javascript folder
+    static_dir: www/robot    
+    
  
     
